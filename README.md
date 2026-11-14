@@ -87,7 +87,7 @@ streamlit run app.py
 - Precision–recall curves and ROC-AUC reporting
 - Probability calibration for clinically interpretable risk scores
 
-## 👤 Author
+## 👤 Author :
 
 **Ammar Alsabateen** — AI & Machine Learning Engineer
 [GitHub](https://github.com/Ammarjm) · [Email](mailto:alsabateenammar@gmail.com)
